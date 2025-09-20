@@ -1,16 +1,39 @@
-## Hi there 👋
+# 👋 Hi, I'm Vladyslav  
 
-<!--
-**hlumak/hlumak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a **Full-Stack JavaScript/TypeScript Developer** passionate about building scalable, maintainable, and user-friendly applications.  
+My focus is on **clean code**, **best practices**, and **continuous improvement**.  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Tech Stack  
+
+**Frontend:**  
+- ⚛️ React / Next.js  
+- 🎨 TailwindCSS / shadcn/ui
+- 🧩 Zustand / Redux Toolkit  
+
+**Backend:**  
+- 🟢 Node.js / Express / Fastify / NestJS   
+- 🗄️ PostgreSQL / MongoDB / Prisma / TypeORM / Mongoose
+
+**DevOps & Tools:**  
+- 🐳 Docker  
+- ☁️ CI/CD (GitHub Actions)  
+- 🧪 Jest / Vitest  
+- 📦 npm / yarn  
+
+---
+
+## 💡 What I Do  
+
+- 🖥️ Build modern **full-stack web applications**  
+- 🏗️ Design **scalable APIs** with NestJS & Node.js  
+- 🔧 Optimize performance and write **clean, testable code**   
+- 🛠️ Contribute to open-source and experiment with new tools  
+
+---
+
+## 📈 Goals  
+
+- 📚 Improve in **system design** & **architecture**  
+- 🧠 Learn more about **computer science**
